@@ -10,7 +10,7 @@
     </ul>
     </td>
     <td style="width:30%">
-      &nbsp;</td>
+      <a href="https://stackoverflow.com/users/13723800/marc-augier"><img src="https://stackoverflow.com/users/flair/13723800.png" width="208" height="58" alt="profile for Marc Augier at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Marc Augier at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></td>
     <td style="width:10%; align-text: right;">
 <img width="128px" src="https://github.com/marcyves/marcyves/blob/master/logo-XDM.png">
     </td>
