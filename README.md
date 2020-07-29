@@ -1,6 +1,9 @@
 # Hi there 👋 Bonjour à tous !
 ## Je suis consultant et formateur freelance, cyber sherpa @ xDM Consulting
+
+<div style="position: relative;">
 <img width="128px" src="https://github.com/marcyves/marcyves/blob/master/logo-XDM.png" style="position: absolute;top: 0px;right: 0px;">
+</div>
 
 ### Mes domaines 
  * Systèmes d'information
