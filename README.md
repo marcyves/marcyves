@@ -13,14 +13,19 @@
     </ul>
     </td>
     <td style="width:30%">
-      <a href="https://stackoverflow.com/users/13723800/marc-augier"><img src="https://stackoverflow.com/users/flair/13723800.png" width="208" height="58" alt="profile for Marc Augier at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Marc Augier at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></td>
+      <a href="https://stackoverflow.com/users/13723800/marc-augier">
+        <img src="https://stackoverflow.com/users/flair/13723800.png" width="208" height="58" alt="profile for Marc Augier at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Marc Augier at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+      </a>
+    </td>
     <td style="width:10%; align-text: right;">
-    <a href="https://app.daily.dev/marcyves"><img src="https://api.daily.dev/devcards/v2/vUDpFkk2Tv2Vu0SxI9qIe.png?type=default&r=wh7" width="356" alt="Marc Augier's Dev Card"/></a>
+    <a href="https://app.daily.dev/marcyves">
+      <img src="./devcard.png" width="356" alt="Marc Augier's Dev Card"/>
+    </a>
     </td>
   </tr>
   <tr>
     <td>
-<img width="128px" src="https://github.com/marcyves/marcyves/blob/master/logo-XDM.png">
+    <img width="128px" src="./logo-XDM.png">
     </td>
     <td colspan="2">
 <h2>Réseaux sociaux personnels</h2>
