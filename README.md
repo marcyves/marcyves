@@ -2,7 +2,7 @@
 
 ## Je suis consultant et formateur freelance, cyber sherpa @ xDM Consulting
 
-<table style="text-align: center; width: 90%;">
+<table style="text-align: center; width: 90%;" border=0>
   <tr>
     <td style="width:60%">
     <h2>Mes domaines</h2>
@@ -11,8 +11,6 @@
       <li>Développement Web</li>
       <li>Bases de données</li>
     </ul>
-    </td>
-    <td style="width:30%">
       <a href="https://stackoverflow.com/users/13723800/marc-augier">
         <img src="https://stackoverflow.com/users/flair/13723800.png" width="208" height="58" alt="profile for Marc Augier at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Marc Augier at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
       </a>
@@ -27,7 +25,7 @@
     <td>
     <img width="128px" src="./logo-XDM.png">
     </td>
-    <td colspan="2">
+    <td>
 <h2>Réseaux sociaux personnels</h2>
 <p>
   <a href="https://www.twitter.com/marcyves"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
