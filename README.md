@@ -1,23 +1,26 @@
 # Hi there 👋 Bonjour à tous !
+
 ## Je suis consultant et formateur freelance, cyber sherpa @ xDM Consulting
+
 <table style="text-align: center; width: 90%;">
-  <tr><td style="width:60%">
+  <tr>
+    <td style="width:60%">
     <h2>Mes domaines</h2>
     <ul>
-      <li>Systèmes d'information
- <li>Développement Web
- <li>Bases de données    
+      <li>Systèmes d'information</li>
+      <li>Développement Web</li>
+      <li>Bases de données</li>
     </ul>
     </td>
     <td style="width:30%">
       <a href="https://stackoverflow.com/users/13723800/marc-augier"><img src="https://stackoverflow.com/users/flair/13723800.png" width="208" height="58" alt="profile for Marc Augier at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Marc Augier at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></td>
     <td style="width:10%; align-text: right;">
-<img width="128px" src="https://github.com/marcyves/marcyves/blob/master/logo-XDM.png">
+    <a href="https://app.daily.dev/marcyves"><img src="https://api.daily.dev/devcards/v2/vUDpFkk2Tv2Vu0SxI9qIe.png?type=default&r=wh7" width="356" alt="Marc Augier's Dev Card"/></a>
     </td>
   </tr>
   <tr>
     <td>
-      &nbsp;
+<img width="128px" src="https://github.com/marcyves/marcyves/blob/master/logo-XDM.png">
     </td>
     <td colspan="2">
 <h2>Réseaux sociaux personnels</h2>
@@ -31,12 +34,12 @@
 </tr>
 </table>
 
-
 ### Professionnel
-  Mon site : 🌐 [xDM Consulting](https://www.xdm-consulting.fr)
-  
-  <a href="https://www.instagram.com/xdm_consulting/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-  
+
+Mon site : 🌐 [xDM Consulting](https://www.xdm-consulting.fr)
+
+<a href="https://www.instagram.com/xdm_consulting/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+
 <!--
 **marcyves/marcyves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
