@@ -49,7 +49,7 @@ Consultant et formateur indépendant depuis **2016** ([xDM Consulting](https://w
 | [**Python-3**](https://github.com/marcyves/Python-3) | Supports de cours Python 3 |
 | [**semestre-manquant**](https://github.com/marcyves/semestre-manquant) | Compléments pédagogiques « formation informatique » |
 
-*Astuce : épinglez 2–3 de ces dépôts sur [github.com/marcyves](https://github.com/marcyves) pour les mettre en avant sur votre profil.*
+*Ces dépôts sont aussi épinglés sur [mon profil GitHub](https://github.com/marcyves) lorsque c’est pertinent.*
 
 ---
 
