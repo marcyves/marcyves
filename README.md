@@ -7,11 +7,11 @@
 *J’aide les équipes à livrer plus sereinement : **qualité logicielle**, **standards de code** et **montée en compétence** (BackEnd, Laravel, Python, systèmes d’information).*
 
 [![Site xDM](https://img.shields.io/badge/Site-xDM_Consulting-0ea5e9?style=for-the-badge)](https://www.xdm-consulting.fr)
-[![Malt](https://img.shields.io/badge/Malt-Profil_freelance-FF5C00?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/marcaugier)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcaugier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcaugier/)
-[![Udemy](https://img.shields.io/badge/Udemy-Instructeur-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/marcaugier/)
 
-<img src="./logo-XDM.png" width="96" alt="xDM Consulting" />
+[![Born To Be Online](https://img.shields.io/badge/Substack-Born_to_be_Online-orange?style=for-the-badge)](https://borntobeonline.substack.com/)
+[![Malt](https://img.shields.io/badge/Malt-Freelance-FF5C00?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/marcaugier)
+[![Udemy](https://img.shields.io/badge/Udemy-Instructeur-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/marcaugier/)
 
 </div>
 
@@ -75,7 +75,6 @@ Consultant et formateur indépendant depuis **2016** ([xDM Consulting](https://w
 
 ### Publications & veille
 
-[![Twitter](https://img.shields.io/badge/Twitter-@marcyves-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/marcyves)
 [![Born To Be Online](https://img.shields.io/badge/Born-to_be_Online-orange?style=for-the-badge)](https://borntobeonline.substack.com/)
 [![Medium](https://img.shields.io/badge/Medium-@marcyves-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marcyves)
 [![dev.to](https://img.shields.io/badge/dev.to-marcyves-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/marcyves)
