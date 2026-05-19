@@ -4,7 +4,7 @@
 
 ### Consultant & formateur freelance · [xDM Consulting](https://www.xdm-consulting.fr)
 
-*J’aide les équipes à livrer plus sereinement : **qualité logicielle**, **standards de code** et **montée en compétence** (Python, systèmes d’information, formation professionnelle).*
+*J’aide les équipes à livrer plus sereinement : **qualité logicielle**, **standards de code** et **montée en compétence** (BackEnd, Laravel, Python, systèmes d’information).*
 
 [![Site xDM](https://img.shields.io/badge/Site-xDM_Consulting-0ea5e9?style=for-the-badge)](https://www.xdm-consulting.fr)
 [![Malt](https://img.shields.io/badge/Malt-Profil_freelance-FF5C00?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/marcaugier)
@@ -19,14 +19,14 @@
 
 ## En bref
 
-Consultant et formateur indépendant depuis **2016** ([xDM Consulting](https://www.xdm-consulting.fr)). Ex-directeur de département **SI & knowledge management** (SKEMA, contexte international), ex-consultant **Accenture**. Ce dépôt est mon **README de profil GitHub** ; les autres dépôts hébergent surtout des **supports de cours** et des **projets personnels**.
+Consultant et formateur indépendant depuis **2016** ([xDM Consulting](https://www.xdm-consulting.fr)). Ex-directeur de département **SI & knowledge management** (SKEMA, contexte international), ex-consultant **Accenture**. Mes dépôts hébergent principalemnt des **supports de cours** et des **projets personnels**.
 
 | | |
 |:---:|:---:|
 | **Formation & code ouvert** | **Conseil & delivery** |
 | Cours Python, qualité du code, outils SI | Audits, standards, ateliers, accompagnement d’équipes |
 | ~**9 000** inscrits cumulés (dispositifs en ligne) | Groupes de **10 à 1 500** participants, présentiel & distanciel |
-| [Udemy](https://www.udemy.com/user/marcaugier/) · IPAG · ELUV | Transformation digitale, documentation, gouvernance |
+| [Udemy](https://www.udemy.com/user/marcaugier/)| Transformation digitale, documentation, gouvernance |
 
 <a href="https://app.daily.dev/marcyves"><img src="./devcard.png" width="420" alt="Marc Augier — daily.dev"/></a>
 
