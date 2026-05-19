@@ -76,7 +76,7 @@ Consultant et formateur indépendant depuis **2016** ([xDM Consulting](https://w
 ### Publications & veille
 
 [![Twitter](https://img.shields.io/badge/Twitter-@marcyves-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/marcyves)
-[![Born To Be Online](https://img.shields.io/badge/Born%20to%20Be%20Online)([https://medium.com/@marcyves](https://borntobeonline.substack.com/))
+[![Born To Be Online](https://img.shields.io/badge/Born-to_be_Online-orange)](https://borntobeonline.substack.com/)
 [![Medium](https://img.shields.io/badge/Medium-@marcyves-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marcyves)
 [![dev.to](https://img.shields.io/badge/dev.to-marcyves-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/marcyves)
 [![daily.dev](https://img.shields.io/badge/daily.dev-marcyves-CE3DF3?style=for-the-badge)](https://app.daily.dev/marcyves)
